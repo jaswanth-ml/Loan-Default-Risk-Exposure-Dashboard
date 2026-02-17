@@ -75,11 +75,6 @@ The dashboard simulates how financial institutions monitor risk and optimize cre
 
 ---
 
-## 📷 Dashboard Preview
-
-
----
-
 ## 💡 Learning Outcomes
 
 Through this project, I strengthened my ability to:
