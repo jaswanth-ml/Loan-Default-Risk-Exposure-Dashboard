@@ -1,110 +1,107 @@
-# 📊 Loan Default Risk & Exposure Dashboard
+# 📊 Loan Portfolio Risk & Exposure Dashboard
 
-## 📌 Project Overview
-
-The **Loan Default Risk & Exposure Dashboard** is a data analytics project designed to analyze loan portfolio performance and borrower risk.
-
-This dashboard helps financial institutions:
-
-- Identify high-risk borrower segments  
-- Monitor default trends  
-- Measure exposure at risk  
-- Support data-driven credit decisions  
+> A data-driven analysis of borrower default behavior and portfolio risk using SQL & Power BI.
 
 ---
 
-## 🎯 Business Problem
+## 🚀 Project Summary
 
-Banks and lending institutions face significant losses due to loan defaults.  
-The challenge is to proactively identify risky borrowers and monitor portfolio exposure.
+This project explores loan portfolio risk by analyzing borrower characteristics, credit behavior, and financial exposure.
+The goal is to identify **high-risk segments, measure portfolio exposure, and support data-driven lending decisions.**
 
-This project simulates a real-world banking scenario where data analytics is used to reduce credit risk and improve lending decisions.
+The dashboard simulates how financial institutions monitor risk and optimize credit strategies.
 
 ---
 
-## 📈 Dashboard Features
+## 🎯 Business Objectives
 
-### 🔹 KPI Summary
-- Total Loans  
-- Total Defaults  
-- Default Rate %  
-- Average Loan Amount  
-- Average Credit Score  
-- Exposure at Risk %  
+* Measure overall portfolio default risk
+* Identify high-risk borrower segments
+* Analyze default trends across income and credit score bands
+* Evaluate exposure at risk in the loan portfolio
+* Enable data-driven credit decision-making
 
-### 🔹 Risk Analysis
-- Default Rate by Risk Level  
-- Default Rate by Income Group  
-- Credit Score Band Risk  
-- Loan Purpose Default Rate  
+---
 
-### 🔹 Advanced Insights
-- Exposure at Risk ($)  
-- Past Defaults Impact  
-- Risk vs Income Heatmap  
+## 📌 Key Insights
 
-### 🔹 Interactive Filters
-- Risk Level  
-- Income Group  
-- Loan Purpose  
+✔ Low-income borrowers show consistently higher default rates
+✔ Certain loan purposes (debt consolidation, medical) carry higher risk
+✔ Credit score bands strongly influence default probability
+✔ Portfolio exposure risk can be monitored using borrower segmentation
+✔ Multi-factor analysis reveals risk patterns not visible in single metrics
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- **SQL** → Data extraction & analysis  
-- **Power BI** → Dashboard development  
-- **DAX** → KPIs & calculated measures  
-- **Data Modeling** → Relationships & schema design  
+* **SQL** — Data extraction, transformation, segmentation
+* **Power BI** — Dashboard design and visualization
+* **Excel** — Data validation and preprocessing
+* **DAX** — KPI calculations and measures
 
 ---
 
-## 📊 Dataset
+## 📈 Dashboard Features
 
-The dataset includes borrower information such as:
+### 🔹 Executive KPIs
 
-- Loan amount  
-- Income group  
-- Credit score  
-- Loan purpose  
-- Risk level  
-- Default status  
-
-*(Dataset used for learning and portfolio purposes.)*
+* Total Loans
+* Total Defaults
+* Default Rate %
+* Average Loan Amount
+* Average Credit Score
+* Exposure at Risk %
 
 ---
 
-## 💼 Business Value
+### 🔹 Risk Analysis Views
 
-This dashboard enables lenders to:
-
-- Detect high-risk borrowers early  
-- Reduce potential credit losses  
-- Optimize lending strategies  
-- Make data-driven decisions  
+* Default Rate by Loan Purpose
+* Default Rate by Credit Score Band
+* Default Rate by Risk Level
+* Default Risk by Income & Risk Segments (Heatmap)
+* Interactive slicers for dynamic filtering
 
 ---
 
-## 🚀 How to Use
+## 🧠 Analytical Approach
 
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Use slicers to explore borrower segments and risk patterns  
+* Performed borrower segmentation using SQL
+* Created risk-based KPIs using DAX
+* Applied multi-factor analysis to uncover hidden risk patterns
+* Designed visuals to support business storytelling and decision-making
+* Focused on clarity and executive-level reporting
 
 ---
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots here)*
 
 ---
 
-## 👤 Author
+## 💡 Learning Outcomes
 
-**Your Name**  
-Aspiring Data Analyst  
-Skilled in SQL, Power BI, and Data Analytics  
+Through this project, I strengthened my ability to:
+
+* Translate business problems into analytical solutions
+* Design professional Power BI dashboards
+* Apply SQL for segmentation and aggregation
+* Communicate insights through data storytelling
+* Think from a business and risk-analysis perspective
 
 ---
 
-⭐ If you found this project useful, consider starring the repo!
+## 🔮 Future Improvements
+
+* Add predictive risk modeling
+* Integrate time-series default trends
+* Deploy dashboard to Power BI Service for live interaction
+
+---
+
+## 🤝 Connect With Me
+
+If you’re interested in data analytics, business intelligence, or financial analytics, feel free to connect!
+
+---
